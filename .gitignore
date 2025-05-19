@@ -1,0 +1,22 @@
+# === Java ===
+*.class
+*.jar
+*.war
+*.ear
+
+# === Build directories ===
+/out/
+/build/
+/target/
+
+# === IntelliJ IDEA ===
+*.iml
+.idea/
+
+# === Logs and temporary files ===
+*.log
+*.tmp
+
+# === OS-generated files ===
+.DS_Store
+Thumbs.db
